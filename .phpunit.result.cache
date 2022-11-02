@@ -1,0 +1,1 @@
+{"version":1,"defects":{"operacionsTest::testResta":3,"operacionsTest::testMultiplica":3,"operacionsTest::testDivideix":3,"operacionsTest::testPotencia":3},"times":{"operacionsTest::testSuma":0.112,"operacionsTest::testResta":0,"operacionsTest::testMultiplica":0,"operacionsTest::testDivideix":0,"operacionsTest::testPotencia":0}}
